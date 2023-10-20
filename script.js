@@ -30,7 +30,7 @@ function submit1(){
   
   emailjs.send(serviceID, templateID,params)
   .then( res =>{
-    alert("Email success");
+    alert("Email sent successfully");
   })
   .catch();{
   
