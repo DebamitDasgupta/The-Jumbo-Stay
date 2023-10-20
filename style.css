@@ -110,12 +110,13 @@
 }
 #submit input:hover{
     font-family: 'Poppins', sans-serif;
-    width: 110%;
+    width: 205%;
     background-color: rgb(51, 51, 51) !important;
     color: #fff !important;
     border-radius: 20px;
     height: 20%;
     cursor: pointer;
+    margin-left: -42%;
 }
 #submit input:active{
     font-size: 19px;
