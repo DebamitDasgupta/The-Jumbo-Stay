@@ -95,7 +95,7 @@
 }
 #submit input{
     font-family: 'Poppins', sans-serif;
-    width: 112%;
+    width: 205%;
     background-color: yellow !important;
     color: black !important;
     transition: all .3s;
@@ -106,6 +106,7 @@
     border-radius: 20px;
     height: 20%;
     cursor: pointer;
+    margin-left: -42%;
 }
 #submit input:hover{
     font-family: 'Poppins', sans-serif;
