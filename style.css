@@ -95,7 +95,7 @@
 }
 #submit input{
     font-family: 'Poppins', sans-serif;
-    width: 205%;
+    width: 148%;
     background-color: yellow !important;
     color: black !important;
     transition: all .3s;
@@ -106,17 +106,17 @@
     border-radius: 20px;
     height: 20%;
     cursor: pointer;
-    margin-left: -42%;
+    margin-left: -1%;
 }
 #submit input:hover{
     font-family: 'Poppins', sans-serif;
-    width: 205%;
+    width: 148%;
+    margin-left: -1%;
     background-color: rgb(51, 51, 51) !important;
     color: #fff !important;
     border-radius: 20px;
     height: 20%;
     cursor: pointer;
-    margin-left: -42%;
 }
 #submit input:active{
     font-size: 19px;
@@ -232,10 +232,11 @@ footer{
         justify-content: center;
         align-items: center;
         text-align: center;
-        width:100%;
+        width:148%;
         height: 50%;
         font-size: 100%;
         padding: 10px;
+        margin-left: -1%;
     }
 
     #submit input:hover{
@@ -243,10 +244,11 @@ footer{
         justify-content: center;
         align-items: center;
         text-align: center;
-        width:100%;
+        width:148%;
         height: 50%;
         font-size: 100%;
         padding: 10px;
+        margin-left: -1%;
     }
 
     .form-text{
